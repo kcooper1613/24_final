@@ -1,0 +1,50 @@
+body{
+	background-color:black;
+}
+#header{
+	color:white;
+	margin-right:20%;
+	margin-left:20%;
+	border-style:solid;
+	border-color:white;
+	background-image:url("images/sideNavimg.jpg");
+	background-image-width:100%;
+	width:45%;
+	font-family:Lucida Handwriting,cursive;
+}
+#sideNav{
+	background-color:white;
+	margin-right:90%;
+	border-radius:10px;
+	height:60%;
+	width:10%;
+}
+#sideNav ul{
+	list-style-type:none;
+}
+#sideNav ul a{
+	text-decoration:none;
+	color:5E5757;
+	font-family:Arial;
+}
+#sideNav ul a:hover{
+	color:E32424;
+}
+#content{
+	color:white;
+	margin-right:20%;
+	margin-left:20%;
+	margin-top:50px;
+	border-style:solid;
+	border-color:white;
+	font-family:Kristen ITC;
+}
+#footer{
+	color:white;
+	border-style:solid;
+	border-color:white;
+	text-align:center;
+	font-family:Bradley Hand ITC;
+	width:60%;
+	margin:auto;
+}

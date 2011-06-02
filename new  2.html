@@ -1,0 +1,57 @@
+
+<html>
+
+	<head>
+		<title>Jordan's Photos</title>
+		<link type='text/css' rel='stylesheet' href='finalCSS.css'/>
+	</head>
+
+	<body>
+		<div id='header'>
+
+			<ul class='headerNav'>
+				<li class='link1'><a href='../posts/index.php'>Home</a></li>
+				<li class='link2'><a href='../gallery/index.html'>Photos</a></li>
+				<li class='link3'><a href='../posts/about.php'>About</a></li>
+				<li class='link4'><a href='../posts/contact.php'>Contact</a></li>
+				<li class='link5'><a href='../friends/index.php'>Friends</a></li>
+			</ul>
+
+			<h1>header here</h1>
+		</div>
+
+		<div id='content'>
+
+			<div id='rightContent'>
+				<form action="create.php" name="newPost" method="post">
+					<p id="prompt">Please post a comment about my photos</p>
+					<p>Title</p>
+					<textArea type="text" name="newPostTitle" ></textArea>
+					<p>Comment</p>
+					<textArea type="text" name="newPostComment" ></textArea>
+					<p>Tags</p>
+					<textArea type="text" name="newPostTag" ></textArea>
+					<input type="submit" name="newPostSubmit" value="Submit your Comment"/>
+				</form>
+			</div>
+
+			<div id='leftContent'>	
+				<p id='comment'>
+					<a href='show.php?id=1'>111</a>
+				</p>
+				<p id='comment'>
+					<a href='show.php?id=2'>222</a>
+				</p>
+			</div>
+			<br class='clearFloat' />
+		</div>
+
+<div id='footer'>
+
+			<p>A Jordan Taffet and Kevin Cooper production</p>
+
+			</div>
+
+			</body>
+
+			</html>

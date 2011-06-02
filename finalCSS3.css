@@ -1,0 +1,50 @@
+body{
+	background-image:url("images/option3img.jpg");
+}
+#header{
+	text-align:center;
+	color:white;
+}
+#header ul{
+	list-style-type:none;
+}
+#header ul li{
+	display:inline;
+}
+#header ul li a{
+	text-decoration:none;
+	padding: 20px;
+	color:8C8C8C;
+	font-weight:bold;
+	font-size:20px;
+	font-family:Courier New;
+}
+#content{
+	text-align:center;
+	color:white;
+	border-style:solid;
+	border-color:white;
+}
+#footer{
+	text-align:center;
+	font-family:Courier New;
+	color:grey;
+}
+#header ul a:hover{
+	color:F57C18;
+}
+.link1 a{
+	color:666666;
+}
+.link2 a{
+	color:828282;
+}
+.link3 a{
+	color:B3B3B3;
+}
+.link4 a{
+	color:D6D6D6;
+}
+.link5 a{
+	color:white;
+}
