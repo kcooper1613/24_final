@@ -1,5 +1,5 @@
 <?php
-	include("connect.php");
+	include("../include.connect.php");
 	$myId= $_GET['id'];
 	$query = "DELETE FROM posts WHERE id = ".$myId."";
 	$results = mysql_query($query) or die("Could not complete query");
