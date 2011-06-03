@@ -10,7 +10,7 @@
 						<li class='link1'><a href='../posts/index.php'>Home</a></li>
 						<li class='link2'><a href='../gallery/index.php'>Photos</a></li>
 						<li class='link3'><a href='../posts/about.php'>About</a></li>
-						<li class='link5'><a href='../friends/index.php'>Friends</a></li>
+						<li class='link5'><a href='../Friends/index.php'>Friends</a></li>
 						<li class='link6'><a href='../include/searchFunction.php'>Search</a></li>
 					</ul>
 						<h1>Jordan Taffet Photography</h1>
