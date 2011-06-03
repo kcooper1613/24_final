@@ -37,18 +37,18 @@
 	
 		<canvas id="c" width="800" height="600"></canvas>
 		<div style="display: none;">
-			<img src="../images/blurBox.jpg" id="box" />
-			<img src="../images/dripChocolate.jpg" id="chocolate" />
-			<img src="../images/family.jpg" id="family" />
-			<img src="../images/hairCut.jpg" id="small kid" />
-			<img src="../images/reach.jpg" id="blind" />
-			<img src="../images/tunnelNight.jpg" id="spin" />
-			<img src="../images/stickUp.jpg" id="robber" />
-			<img src="../images/macCamera.jpg" id="black and white" />
-			<img src="../images/nightLight.jpg" id="light" />
-			<img src="../images/woods.jpg" id="trees" />
-			<img src="../images/selfPortrait.jpg" id="jordan" />
-			<img src="../images/lobster.jpg" id="lobster" />
+			<img src="../images/blurBox.jpg" id="one" />
+			<img src="../images/dripChocolate.jpg" id="two" />
+			<img src="../images/family.jpg" id="three" />
+			<img src="../images/hairCut.jpg" id="four" />
+			<img src="../images/reach.jpg" id="five" />
+			<img src="../images/tunnelNight.jpg" id="six" />
+			<img src="../images/stickUp.jpg" id="seven" />
+			<img src="../images/macCamera.jpg" id="eight" />
+			<img src="../images/nightLight.jpg" id="nine" />
+			<img src="../images/woods.jpg" id="ten" />
+			<img src="../images/selfPortrait.jpg" id="eleven" />
+			<img src="../images/lobster.jpg" id="twelve" />
 		</div>
 		<?php 
 			renderFooter("../");
