@@ -6,7 +6,7 @@
 <script type="text/javascript">
 function checkUserName (){
 				var response=document.getElementById("friendName").value;
-					if (response==""||response==){
+					if (response==""||response==""){
 						document.getElementById("nameFeedback").innerHTML="<img src='../images/warning.png' alt='wrong'>Please Try Again";
 						var element=document.getElementById("nameFeedback");
 						element.className="highlightWarning";
@@ -19,7 +19,7 @@ function checkUserName (){
 			/*lastname*/
 			function checkUserDes (){
 			var response=document.getElementById("newFriendDescription").value;
-				if(response==""||){
+				if(response==""){
 					document.getElementById("descriptionFeedback").innerHTML="<img src='../images/warning.png' alt='wrong'>Please Try Again";
 					var element=document.getElementById("descriptionFeedback");
 					element.className="highlightWarning";
