@@ -170,3 +170,9 @@
 	margin-right:20%;
 	margin-left:20%;
 }
+#delete{
+     color:black;
+     text-decoration:none;
+     text-align:center;
+     font-size:20px;
+}
